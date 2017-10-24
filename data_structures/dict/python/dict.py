@@ -1,5 +1,5 @@
 #dict is a data structure similar to a javascript object, with key: value pairs. 
-# This is to generate a random number of keys with a random number of values for each of them. 
+# This is to generate a dictionary with random number of keys with a random number of values for each of them. 
 # d={a:1, b:2} a and b are keys, 1 and 2 are values. d.a = 1
 
 import random
